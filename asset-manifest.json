@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/mikayla-howitz/static/css/main.f613db4f.css",
+    "main.js": "/mikayla-howitz/static/js/main.5df6e05f.js",
+    "static/js/787.2cdd5806.chunk.js": "/mikayla-howitz/static/js/787.2cdd5806.chunk.js",
+    "static/media/pexels-matthew-montrone-1204430.jpg": "/mikayla-howitz/static/media/pexels-matthew-montrone-1204430.a465b2e10ed58b2231ca.jpg",
+    "static/media/me.JPG": "/mikayla-howitz/static/media/me.07cfd5ab57d7b7dc6721.JPG",
+    "static/media/p-express.jpg": "/mikayla-howitz/static/media/p-express.18d5f30c6577e5b5d6cf.jpg",
+    "static/media/planet-express.JPG": "/mikayla-howitz/static/media/planet-express.251e1491238829113612.JPG",
+    "static/media/screenshotAbout.jpg": "/mikayla-howitz/static/media/screenshotAbout.01466a36dc7c643e1fb4.jpg",
+    "static/media/screenshotModal.jpg": "/mikayla-howitz/static/media/screenshotModal.aaca13654dfeb7263f21.jpg",
+    "static/media/screenshotProjects.jpg": "/mikayla-howitz/static/media/screenshotProjects.b5f6f55ab4f2e17962ad.jpg",
+    "static/media/screenshotContact.jpg": "/mikayla-howitz/static/media/screenshotContact.8182625b364a786ad27e.jpg",
+    "static/media/moneybagsmplace.JPG": "/mikayla-howitz/static/media/moneybagsmplace.e3ea02f1fad5a4b214ef.JPG",
+    "static/media/planet-logo.png": "/mikayla-howitz/static/media/planet-logo.d20ad3acf405c24e4daa.png",
+    "static/media/food-finder.JPG": "/mikayla-howitz/static/media/food-finder.72b5748e54f6f2ccab17.JPG",
+    "static/media/weather-dash.JPG": "/mikayla-howitz/static/media/weather-dash.73e0baf675298ca3a30e.JPG",
+    "static/media/ff-back.jpg": "/mikayla-howitz/static/media/ff-back.02eff5d8edceb61eefaa.jpg",
+    "static/media/weth.jpg": "/mikayla-howitz/static/media/weth.61ab502993b35c6ed00a.jpg",
+    "static/media/moneybags.jpg": "/mikayla-howitz/static/media/moneybags.a90b25feb13cc10a651c.jpg",
+    "static/media/flying-money.png": "/mikayla-howitz/static/media/flying-money.560dee9ca688f2b797a2.png",
+    "index.html": "/mikayla-howitz/index.html",
+    "main.f613db4f.css.map": "/mikayla-howitz/static/css/main.f613db4f.css.map",
+    "main.5df6e05f.js.map": "/mikayla-howitz/static/js/main.5df6e05f.js.map",
+    "787.2cdd5806.chunk.js.map": "/mikayla-howitz/static/js/787.2cdd5806.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f613db4f.css",
+    "static/js/main.5df6e05f.js"
+  ]
+}
