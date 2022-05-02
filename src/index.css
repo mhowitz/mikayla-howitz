@@ -1,0 +1,135 @@
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.hero{
+  background-image: url('./assets/images/pexels-matthew-montrone-1204430.jpg');
+  padding: 20px 35px;
+  display: flex;
+  /* justify-content: center; */
+  /* justify-content: space-between; */
+  flex-wrap: wrap;
+  position: -webkit-sticky;
+  top: 0;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: 80%;
+  z-index: 9998;
+}
+body{
+  background-color: #778aaf;
+}
+.navbar {
+  display: flex;
+  flex-wrap: wrap;
+  background-image:  url('./assets/images/pexels-matthew-montrone-1204430.jpg') ;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: 80%;
+  position: absolute;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.modal-card {
+  min-width: 80vw !important;
+
+}
+.modal-card-title {
+  font-size: 3rem !important;
+}
+#modalImage{
+  min-width: 75vw !important;
+  height: auto !important;
+
+}
+
+.button {
+  background-color: #4aa509 !important;
+}
+
+#projectIcon {
+  height: 3rem !important;
+  width: 3rem !important;
+  margin-right: 20px;
+}
+
+.card-image {
+  object-fit: cover !important;
+}
+.card-image:hover{
+  opacity: 75%;
+}
+.cardTitle:hover {
+  color:#4aa509
+}
+
+.iconHover{
+  height: 4rem !important;
+  width: 4rem !important;
+}
+.iconHover :hover{
+  color:#d1f8b4
+}
+a{
+
+  color: #4A4A4A !important;
+}
+a:hover{
+  color: #2d5c0b !important;
+  font-weight: bold;
+}
+.is-active-custom{
+  font-weight: bold !important;
+}
+.titleColor {
+  color: #4A4A4A !important
+}
+.aboutBox {
+  color: black !important;
+}
+.aboutBox {
+  background-color:rgba(255, 255, 255, .5) !important;
+  /* border:solid black !important; */
+  box-shadow: 0 0 15px rgba(0,0,0,.5) !important;
+
+}
+.card {
+  background-color:rgba(255, 255, 255, .75) !important;
+  border-radius: 0px !important;
+  box-shadow: 0 0 15px rgba(0,0,0,.5) !important;
+}
+.contactForm {
+  background-color:rgba(255, 255, 255, .75) !important;
+  border-radius: 0px !important;
+  box-shadow: 0 0 15px rgba(0,0,0,.5) !important;
+}
+@media screen and (max-width: 1000px) {
+  .modal-card {
+    max-width: 90vw !important;
+  }
+  .modal-card-title {
+    font-size: large !important;
+    word-wrap:break-word !important;
+  }
+  #modalImage {
+    max-width: 80vw !important;
+    height: auto !important
+  }
+  .titleColor {
+    font-size:large !important;
+  }
+  .modal-card-foot a {
+    font-size: 1rem !important;
+    padding-bottom: 1rem !important;
+  }
+}
+
